@@ -1,0 +1,14 @@
+C:\Users\Karol\ProjektUczelnia\TPC\src\TPC.Api\obj\Debug\netcoreapp2.2\TPC.Api.csprojAssemblyReference.cache
+C:\Users\Karol\ProjektUczelnia\TPC\src\TPC.Api\obj\Debug\netcoreapp2.2\TPC.Api.csproj.CoreCompileInputs.cache
+C:\Users\Karol\ProjektUczelnia\TPC\src\TPC.Api\obj\Debug\netcoreapp2.2\TPC.Api.RazorAssemblyInfo.cache
+C:\Users\Karol\ProjektUczelnia\TPC\src\TPC.Api\obj\Debug\netcoreapp2.2\TPC.Api.RazorAssemblyInfo.cs
+C:\Users\Karol\ProjektUczelnia\TPC\src\TPC.Api\obj\Debug\netcoreapp2.2\TPC.Api.AssemblyInfoInputs.cache
+C:\Users\Karol\ProjektUczelnia\TPC\src\TPC.Api\obj\Debug\netcoreapp2.2\TPC.Api.AssemblyInfo.cs
+C:\Users\Karol\ProjektUczelnia\TPC\src\TPC.Api\bin\Debug\netcoreapp2.2\TPC.Api.deps.json
+C:\Users\Karol\ProjektUczelnia\TPC\src\TPC.Api\bin\Debug\netcoreapp2.2\TPC.Api.runtimeconfig.json
+C:\Users\Karol\ProjektUczelnia\TPC\src\TPC.Api\bin\Debug\netcoreapp2.2\TPC.Api.runtimeconfig.dev.json
+C:\Users\Karol\ProjektUczelnia\TPC\src\TPC.Api\bin\Debug\netcoreapp2.2\TPC.Api.dll
+C:\Users\Karol\ProjektUczelnia\TPC\src\TPC.Api\bin\Debug\netcoreapp2.2\TPC.Api.pdb
+C:\Users\Karol\ProjektUczelnia\TPC\src\TPC.Api\obj\Debug\netcoreapp2.2\TPC.Api.RazorTargetAssemblyInfo.cache
+C:\Users\Karol\ProjektUczelnia\TPC\src\TPC.Api\obj\Debug\netcoreapp2.2\TPC.Api.dll
+C:\Users\Karol\ProjektUczelnia\TPC\src\TPC.Api\obj\Debug\netcoreapp2.2\TPC.Api.pdb
